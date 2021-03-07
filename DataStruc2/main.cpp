@@ -19,6 +19,7 @@ void f2();
 void f3();
 int main_final();
 
+//main
 int main()
 {
 	main_final();
