@@ -59,7 +59,7 @@ int main_final()
 	return 0;
 }
 
-//test
+//test .
 void f3() 
 {
 	Person persons[15];
@@ -108,7 +108,7 @@ void f3()
 	
 }
 
-//test
+//test .
 void f2() 
 {
 	Person persons[3];
@@ -123,7 +123,7 @@ void f2()
 	cout << Person::getCompares() << endl;
 }
 
-//test
+//test .
 void f1() 
 {
 	int n = 5;
